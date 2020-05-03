@@ -59,10 +59,10 @@ group :test do
   # 下の６つのgemを追加する
   gem 'rspec-rails'
   gem "factory_bot_rails"
-  gem 'rspec-parameterized'
+  # gem 'rspec-parameterized'
   gem 'faker' #ランダム値の生成
-  gem 'shoulda-matchers'
-  gem 'rails-controller-testing'
+  # gem 'shoulda-matchers'
+  # gem 'rails-controller-testing'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
